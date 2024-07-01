@@ -38,7 +38,7 @@ _How to select the best viewpoints for projection-based PCQA methods?_
 
 ## Download VP-PCQA Dataset
 
-The dataset can be downloaded via [OneDrive]().
+The dataset can be downloaded via [OneDrive](https://1drv.ms/u/s!AjaDoj_-yWgggvAKYZBnIacpm-O9ig?e=gVanaI).
 
 The VP-PCQA.zip is formatted like:
 ```
@@ -52,7 +52,7 @@ The VP-PCQA.zip is formatted like:
 (The projection images of 42 viewpoints defined by the geodesic sphere for each reference point cloud.)
 ```
 
-The human-selected viewpoints can be accessed [here](https://github.com/zzc-1998/VP-PCQA/blob/main/human_preferred_index.csv). (`human_preferred_index.csv' in this repo)
+The human-selected viewpoints can be accessed [here](https://github.com/zzc-1998/VP_PCQA/blob/main/human_preferred_index.csv). (`human_preferred_index.csv' in this repo)
 The CSV file lists viewpoints in order of human preference, with the **most favored viewpoints appearing first**.
 
 ## Other Utils

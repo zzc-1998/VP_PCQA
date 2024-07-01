@@ -49,7 +49,7 @@ The VP-PCQA.zip is formatted like:
 (The camera parameters (.json) for the 42 viewpoints of each distorted point cloud, and preferred viewpoint index features in 'vp_attribute.csv'.)
 |--ref_ply (All the reference point clouds in .ply format.)
 |--ref_|--ref_ply
-((The projection images of 42 viewpoints defined by the geodesic sphere for each reference point cloud.))
+(The projection images of 42 viewpoints defined by the geodesic sphere for each reference point cloud.)
 ```
 
 The human-selected viewpoints can be accessed [here](https://github.com/zzc-1998/PCQA_VP/blob/main/human_preferred_index.csv).

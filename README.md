@@ -52,9 +52,14 @@ The VP-PCQA.zip is formatted like:
 ((The projection images of 42 viewpoints defined by the geodesic sphere for each reference point cloud.))
 ```
 
-The human-selected viewpoints can be accessed [here]()
+The human-selected viewpoints can be accessed [here](https://github.com/zzc-1998/PCQA_VP/blob/main/human_preferred_index.csv).
+The CSV file lists viewpoints in order of human preference, with the **most favored viewpoints appearing first**.
 
-##
+## Other Utils
+
+`cal_vp_attribute.py' can be used to calculate the preferred index features.
+
+`vp_render.py' can be used to render the projections according to the geodesic sphere.
 
 ## Contact
 
